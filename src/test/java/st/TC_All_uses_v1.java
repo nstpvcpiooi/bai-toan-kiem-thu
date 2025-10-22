@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * BỘ TEST KIỂM THỬ DÒNG DỮ LIỆU ĐỘ PHỦ ALL-USES
  */
-public class TC_All_uses extends MainTest {
+public class TC_All_uses_v1 extends MainTest {
 
     @Test
     public void TC_AU1() {
@@ -35,8 +35,8 @@ public class TC_All_uses extends MainTest {
 
     @Test
     public void TC_AU5() {
-        assertEquals("P5: checkin=1, bill=12.00",
-                "Hạng Vàng", main.Membership(1, 12.00));
+        assertEquals("P5: checkin=0, bill=12.00",
+                "Hạng Vàng", main.Membership(0, 12.00));
     }
 
     @Test

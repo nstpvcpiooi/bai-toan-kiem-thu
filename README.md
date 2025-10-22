@@ -27,3 +27,5 @@ Bộ Test
 * [Kiểm thử bảng quyết định](src/test/java/st/TC_BQD.java)
 * [Kiểm thử dòng điều khiển - version 1](src/test/java/st/TC_CFG_v1.java)
 * [Kiểm thử dòng điều khiển - version 2](src/test/java/st/TC_CFG_v2.java)
+* [Kiểm thử dòng dữ liệu - version 1](src/test/java/st/TC_All_uses_v1.java)
+* [Kiểm thử dòng dữ liệu - version 2](src/test/java/st/TC_All_uses_v2.java)
