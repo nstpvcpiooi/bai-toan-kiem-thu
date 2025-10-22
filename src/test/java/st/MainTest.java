@@ -8,7 +8,7 @@ import org.junit.Test;
 public class MainTest {
 
     // Chọn phiên bản để kiểm thử
-    private final int VERSION = 2;
+    private final int VERSION = 1;
 
     protected Main main = getVersion(VERSION);
 }
